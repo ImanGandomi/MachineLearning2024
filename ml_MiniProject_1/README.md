@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Kaggle](https://www.kaggle.com/) for providing access to the Szeged Weather dataset.
 
 ## Contact Information
-For questions or feedback, please reach out to me at [your-email@example.com].
+For questions or feedback, please reach out to me at [iman2001.gandomi@gmail.com].
