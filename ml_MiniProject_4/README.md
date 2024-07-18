@@ -44,3 +44,7 @@ The course is divided into the following modules:
 - Unsupervised Learning
 - Neural Networks
 - Model Evaluation and Validation
+
+
+## Contact Information
+For questions or feedback, please reach out to me at [Iman2001.gandomi@gamil.com].
