@@ -16,7 +16,7 @@ This repository contains the first mini-project of the machine learning course a
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 
-- ## Installation
+## Installation
 To set up this project on your local machine, follow these steps:
 
 Clone the repository:
