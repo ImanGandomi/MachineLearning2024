@@ -8,6 +8,7 @@ Feel free to explore the projects and contribute to the repository.
 
 
 ### Mini Project 1: Fundamental Machine Learning Techniques
+#### Tasks
 1. **Problem 1: Classification with Scikit-Learn**
    - Using `sklearn.datasets` and `sklearn.linear_model` for classification and visualizing decision boundaries.
 2. **Problem 2: CWRU Bearing Dataset Classification**
