@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## Acknowledgments
-- [**KNTU University**] for providing the course materials and guidance.
+- **KNTU University** for providing the course materials and guidance.
 - [**scikit-learn**](https://scikit-learn.org/)
 - [**Google Colab**](https://colab.research.google.com/)
 - [**Kaggle**](https://www.kaggle.com/)
