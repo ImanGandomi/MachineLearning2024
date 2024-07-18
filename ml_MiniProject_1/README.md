@@ -19,7 +19,7 @@ This repository contains the first mini-project of the machine learning course a
 - ## Installation
 To set up this project on your local machine, follow these steps:
 
-1- Clone the repository:
+Clone the repository:
     ```bash
     git clone https://github.com/yourusername/machine-learning-mini-project-1.git
     ```
@@ -33,3 +33,18 @@ Here’s how you can use the project:
     ```
     or
    use ML_MIiniProject_1.ipynb
+   
+## Contributing
+Contributions are welcome! Please follow these guidelines:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+
+
+## Acknowledgments
+KNTU University for providing the course materials and guidance.
+scikit-learn for their awesome tools and documentation.
+Kaggle for providing access to the Szeged Weather dataset.
