@@ -19,20 +19,21 @@ This repository contains the second mini project of the machine learning course 
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 
-- ## Installation
+## Installation
 To set up this project on your local machine, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
     ```bash
     git clone https://github.com/yourusername/machine-learning-mini-project-2.git
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    
 ## Usage
 Here’s how you can use the project:
+    ```bash
+    !python ml_miiniproject_2.py
+    ```
+    or
+   use ML_MIiniProject_2.ipynb
 
 
 
