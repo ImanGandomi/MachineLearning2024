@@ -8,7 +8,6 @@ Feel free to explore the projects and contribute to the repository.
 
 
 ### Mini Project 1: Fundamental Machine Learning Techniques
-#### Tasks
 1. **Problem 1: Classification with Scikit-Learn**
    - Using `sklearn.datasets` and `sklearn.linear_model` for classification and visualizing decision boundaries.
 2. **Problem 2: CWRU Bearing Dataset Classification**
@@ -35,3 +34,18 @@ Feel free to explore the projects and contribute to the repository.
 ### Mini Project 4: Reinforcement Learning
 1. **Problem 1: Deep Q-Learning for Lunar Lander**
    - Implementing Deep Q-Learning to solve the Lunar Lander reinforcement learning problem.
+
+
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
+## Acknowledgments
+- KNTU University for providing the course materials and guidance.
+- [scikit-learn](https://scikit-learn.org/)
+- **arXiv** for providing access to research articles.
+
+## Contact Information
+For questions or feedback, please reach out to me at [Iman2001.gandomi@gmail.com.com].
