@@ -22,6 +22,16 @@ This repository contains the forth mini project of the machine learning course a
 ## Installation
 To set up this project on your local machine, follow these steps:
 
+Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/machine-learning-mini-project-4.git
+    ```
+    
+## Usage
+Here’s how you can use the project:
+  
+   use DQN_LunarLander_DDNN.ipynb
+
 
 
 
