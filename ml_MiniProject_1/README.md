@@ -34,17 +34,37 @@ Here’s how you can use the project:
     or
    use ML_MIiniProject_1.ipynb
    
+## Course Structure
+The course is divided into the following modules:
+- Introduction to Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Neural Networks
+- Model Evaluation and Validation
+
+## Datasets
+We use the following datasets in this project:
+- `sklearn.datasets`
+- CWRU Bearing Dataset
+- [2006-2016 Szeged Weather dataset](https://www.kaggle.com/datasets/budincsevity/szeged-weather)
+
+   
 ## Contributing
 Contributions are welcome! Please follow these guidelines:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details
 
 ## Acknowledgments
-KNTU University for providing the course materials and guidance.
-scikit-learn for their awesome tools and documentation.
-Kaggle for providing access to the Szeged Weather dataset.
+- KNTU University for providing the course materials and guidance.
+- [scikit-learn](https://scikit-learn.org/) for their awesome tools and documentation.
+- [Kaggle](https://www.kaggle.com/) for providing access to the Szeged Weather dataset.
+
+## Contact Information
+For questions or feedback, please reach out to me at [your-email@example.com].
