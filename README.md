@@ -35,6 +35,15 @@ Feel free to explore the projects and contribute to the repository.
 1. **Problem 1: Deep Q-Learning for Lunar Lander**
    - Implementing Deep Q-Learning to solve the Lunar Lander reinforcement learning problem.
 
+## Contribution Guidelines
+1. **Fork the Repository**: Make a copy of this repository on your GitHub account.
+2. **Clone the Repository**: Download your copy to your local machine.
+3. **Create a New Branch**: Work on a separate branch for your changes.
+4. **Commit and Push**: Save your changes and push them to your GitHub.
+5. **Pull Request***: Submit a pull request to merge your changes into the main repository.
+
+
+
 
 
 
