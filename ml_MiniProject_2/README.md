@@ -34,9 +34,7 @@ To set up this project on your local machine, follow these steps:
 ## Usage
 Here’s how you can use the project:
 
-Run the main script:
-```bash
-python main.py
+
 
 ## Course Structure
 The course is divided into the following modules:
@@ -51,3 +49,23 @@ We use the following datasets in this project:
 - CWRU Bearing Dataset
 - [Drugs A, B, C, X, Y dataset](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
 - [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
+## Contributing
+Contributions are welcome! Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+6. ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgments
+- KNTU University for providing the course materials and guidance.
+- [scikit-learn](https://scikit-learn.org/) for their awesome tools and documentation.
+- [Kaggle](https://www.kaggle.com/) for providing access to various datasets.
+
+## Contact Information
+For questions or feedback, please reach out to me at [Iman2001.gandomi@gmail.com].
