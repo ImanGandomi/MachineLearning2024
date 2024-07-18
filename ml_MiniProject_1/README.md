@@ -25,5 +25,9 @@ To set up this project on your local machine, follow these steps:
     ```
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    !python ml_miiniproject_1.py
     ```
+    or
+   use ml_Miiniproject_1.py
+
+    
